@@ -1,4 +1,4 @@
-# My-First-Website
+
  
  
- #### This website contains recipes of various continental dishes. Built with HTML and CSS.
+ #### A simple and elegant website featuring a curated collection of continental food recipes. This is my first website built using HTML and CSS.
